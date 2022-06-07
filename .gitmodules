@@ -1,0 +1,3 @@
+[submodule "CNC-Photo-Sender"]
+	path = CNC-Photo-Sender
+	url = https://github.com/OmarMohamed156/CNC-Photo-Sender
